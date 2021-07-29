@@ -1,7 +1,5 @@
 # Path-Finding-Algorithm-Visualizer
 
-Path Finding Visualizer
-
 Since I have studied various path finding algorithms I got fascinated by them. And I wanted to visualize them in action.
 
 This repository includes 4 C++ files depicting the various stages of the project from zero to uptil now.
